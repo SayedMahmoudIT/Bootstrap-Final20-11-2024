@@ -1,5 +1,12 @@
 
 
+.sec-icon{
+    transition: all 0.25s ease-in-out;
+    }
+    .sec-icon:hover{
+        color:rgba(233, 61, 61, 0.925);
+    }
+
 /* ----carousel--- */
 
 
@@ -32,6 +39,8 @@ background-attachment: fixed;
 color: #fff;
 
 }
+
+
 /* section-3---End */
 
 /* section-4 */
