@@ -30,12 +30,13 @@
 .slid-caption{
     position: absolute;
     top: 50%;
-    left: 35%;
+    left: 30%;
     color: antiquewhite;
 
     width:auto;
     height: auto;
 
+    /* font-size: 300px !important; */
     /* background-color: red; */
 }
 
