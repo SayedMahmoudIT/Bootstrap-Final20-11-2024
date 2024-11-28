@@ -215,6 +215,33 @@ color: rgba(255, 0, 0, 0.795);
     text-decoration: underline;
 }
 
+.car-indicator{
+top: 0;
+left: 40%;
+width: 15%;
+height: 50%;
+}
+
+.car-btn{
+    position: relative;
+    width:150px !important;
+    height: 150px !important;
+    background-color: transparent !important; 
+}
+
+.car-imginbtn{
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+.car-clientData{
+  position: absolute !important;
+  background-color: red !important; 
+  top: 120% !important;
+  left: 400% !important; 
+}
+
 /* section-8---End */
 
 
